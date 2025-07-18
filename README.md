@@ -1,5 +1,6 @@
 # Pomodoro Timer
-thia is a basic Pomodoro website built with **HTML**, **CSS**, and **JavaScript**. It's beginner-friendly and perfect for improving focus during study or work sessions.
+This is a very basic Pomodoro website built with **HTML**, **CSS**, and **JavaScript** with an extremely beginner-friendly UI.
+Pomodoro timers are perfect for improving focus during study or work sessions.
 
 More updates to come**
 
